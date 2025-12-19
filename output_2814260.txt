@@ -1,0 +1,23 @@
+Loaded 24939 images (train 19951, test 4988)
+Epoch 1/10 — 23s — 1.1ms/step — train_accuracy: 0.9971 — train_loss: 0.0395
+Epoch 2/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0471
+Epoch 3/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0472
+Epoch 4/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0474
+Epoch 5/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0472
+Epoch 6/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0474
+Epoch 7/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0472
+Epoch 8/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0474
+Epoch 9/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0472
+Epoch 10/10 — 21s — 1.1ms/step — train_accuracy: 0.9964 — train_loss: 0.0474
+
+Test Accuracy: 1.0000 — Test Loss: 0.0002
+
+==== FINAL GPU Kernel Time Summary ====
+normalize: 1863.270 ms
+conv     : 2754.268 ms
+pool     : 2676.000 ms
+dense    : 4524.844 ms
+loss     : 1602.292 ms
+adam     : 2073.112 ms
+Total GPU kernel time: 15493.785 ms (15.494 s)
+Total program time (CPU wall clock): 218.190 s
