@@ -1,0 +1,11 @@
+Job started
+Date: Fri Dec 19 09:14:12 CST 2025
+Host: c301-003.ls6.tacc.utexas.edu
+Directory: /home1/10983/rayala2510/GPUprog/project cuda
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2023 NVIDIA Corporation
+Built on Tue_Jul_11_02:20:44_PDT_2023
+Cuda compilation tools, release 12.2, V12.2.128
+Build cuda_12.2.r12.2/compiler.33053471_0
+Job finished
+Fri Dec 19 09:18:31 CST 2025
